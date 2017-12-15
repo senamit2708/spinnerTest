@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">spinnerTest</string>
+
+    <string-array name="movieType">
+
+        <item>top rated</item>
+        <item>new movies</item>
+        <item>old movies</item>
+        <item>adult</item>
+
+
+    </string-array>
+
+</resources>
